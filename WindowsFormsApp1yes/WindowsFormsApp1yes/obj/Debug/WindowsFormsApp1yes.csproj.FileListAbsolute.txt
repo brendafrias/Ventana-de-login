@@ -1,0 +1,10 @@
+C:\Users\Brenda\source\repos\WindowsFormsApp1yes\WindowsFormsApp1yes\bin\Debug\WindowsFormsApp1yes.exe.config
+C:\Users\Brenda\source\repos\WindowsFormsApp1yes\WindowsFormsApp1yes\bin\Debug\WindowsFormsApp1yes.exe
+C:\Users\Brenda\source\repos\WindowsFormsApp1yes\WindowsFormsApp1yes\bin\Debug\WindowsFormsApp1yes.pdb
+C:\Users\Brenda\source\repos\WindowsFormsApp1yes\WindowsFormsApp1yes\obj\Debug\WindowsFormsApp1yes.csprojAssemblyReference.cache
+C:\Users\Brenda\source\repos\WindowsFormsApp1yes\WindowsFormsApp1yes\obj\Debug\WindowsFormsApp1yes.Properties.Resources.resources
+C:\Users\Brenda\source\repos\WindowsFormsApp1yes\WindowsFormsApp1yes\obj\Debug\WindowsFormsApp1yes.csproj.GenerateResource.cache
+C:\Users\Brenda\source\repos\WindowsFormsApp1yes\WindowsFormsApp1yes\obj\Debug\WindowsFormsApp1yes.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\source\repos\WindowsFormsApp1yes\WindowsFormsApp1yes\obj\Debug\WindowsFormsApp1yes.exe
+C:\Users\Brenda\source\repos\WindowsFormsApp1yes\WindowsFormsApp1yes\obj\Debug\WindowsFormsApp1yes.pdb
+C:\Users\Brenda\source\repos\WindowsFormsApp1yes\WindowsFormsApp1yes\obj\Debug\WindowsFormsApp1yes.Login_Frias.resources
